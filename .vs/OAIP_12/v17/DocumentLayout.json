@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\oaip_12\\oaip_12\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB4F59B3-7E5C-4563-8E24-308EBCABF2D4}|OAIP_12\\OAIP_12.csproj|solutionrelative:oaip_12\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 103,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\App.config",
+              "RelativeDocumentMoniker": "OAIP_12\\App.config",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\App.config",
+              "RelativeToolTip": "OAIP_12\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-28T22:30:17.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -40,47 +73,97 @@
               "RelativeDocumentMoniker": "OAIP_12\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\AppDbContext.cs",
               "RelativeToolTip": "OAIP_12\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:13:30.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Order.cs",
-              "RelativeDocumentMoniker": "OAIP_12\\Order.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Order.cs",
-              "RelativeToolTip": "OAIP_12\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:06:43.672Z",
+              "WhenOpened": "2024-05-28T22:25:05.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Customer.cs",
-              "RelativeDocumentMoniker": "OAIP_12\\Customer.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Customer.cs",
-              "RelativeToolTip": "OAIP_12\\Customer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\RegistrationForm.cs",
+              "RelativeToolTip": "OAIP_12\\RegistrationForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:06:31.73Z",
+              "WhenOpened": "2024-05-28T22:23:48.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Form1.cs",
-              "RelativeDocumentMoniker": "OAIP_12\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "OAIP_12\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OAIP_12\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:01:24.716Z",
+              "WhenOpened": "2024-05-28T22:23:45.181Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\LoginForm.cs",
+              "RelativeToolTip": "OAIP_12\\LoginForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:22:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OAIP_12\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:54.565Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Program.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\Program.cs",
+              "RelativeToolTip": "OAIP_12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:21:26.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\OrderForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\OrderForm.cs",
+              "RelativeToolTip": "OAIP_12\\OrderForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:11:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\OrderForm.cs",
+              "RelativeDocumentMoniker": "OAIP_12\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\OAIP_12\\OAIP_12\\OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OAIP_12\\OrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:11:17.319Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
