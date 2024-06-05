@@ -19,7 +19,7 @@ namespace OAIP_12
 {
     public class AppDbContext : DbContext
     {
-        private const string ConnectionString = "Data Source=DESKTOP-T0VR3FD\\SQLEXPRESS;Initial Catalog=OAIP_12;Integrated Security=True";
+        private const string ConnectionString = "Data Source=DESKTOP-QRK6367;Initial Catalog=OAIP_12;Integrated Security=True";
 
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }

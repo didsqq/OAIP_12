@@ -27,7 +27,7 @@ namespace OAIP_12
         }
         private void AddOrderButton_Click(object sender, EventArgs e)
         {
-            var orderForm = new OrderForm(context, customer);
+            var orderForm = new OrderForm(context, customer, null);
             if (orderForm.ShowDialog() == DialogResult.OK)
             {
                 customer.Orders.Add(orderForm.Order);
@@ -48,6 +48,17 @@ namespace OAIP_12
         private void ExitButton_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var selectedRow = OrdersDataGridView.SelectedRows[0];
+            var order = (Order)selectedRow.DataBoundItem;
+
+            var orderForm = new OrderForm(context, customer, order);
+            orderForm.ShowDialog();
+            OrdersDataGridView.DataSource = null;
+            OrdersDataGridView.DataSource = customer.Orders;
         }
     }
 }

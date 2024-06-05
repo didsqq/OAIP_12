@@ -26,7 +26,11 @@ namespace OAIP_12
                 customer = context.Customers.FirstOrDefault(u =>
                u.Email == email && u.Password == password);
             }
-            if (customer != null)
+            if (string.IsNullOrEmpty(textBoxEmail.Text))
+                MessageBox.Show("Введите почту");
+            else if (string.IsNullOrEmpty(textBoxPass.Text))
+                MessageBox.Show("Введите пароль");
+            else if (customer != null)
             {
                 MessageBox.Show("Вы успешно авторизовались!", "Авторизация", MessageBoxButtons.OK,MessageBoxIcon.Information);
                 MainForm mainForm = new MainForm(new AppDbContext(), customer);

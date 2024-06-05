@@ -26,11 +26,30 @@ namespace OAIP_12
                 Email = textBoxEmail.Text,
                 Password = textBoxPass.Text
             };
-            context.Customers.Add(customer);
-            context.SaveChanges();
-            MessageBox.Show("Вы успешно зарегистрировались!",
-           "Регистрация", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            Close();
+            if (string.IsNullOrEmpty(textBoxFIO.Text))
+                MessageBox.Show("Введите имя");
+            else if (string.IsNullOrEmpty(textBoxEmail.Text))
+                MessageBox.Show("Введите почту");
+            else if (string.IsNullOrEmpty(textBoxPass.Text))
+                MessageBox.Show("Введите пароль");
+            else
+            {
+                try
+                {
+                    context.Customers.Add(customer);
+                    context.SaveChanges();
+                    MessageBox.Show("Вы успешно зарегистрировались!", "Регистрация", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Close();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message.ToString());
+                }
+                
+            }
+
+
+
         }
     }
 }
